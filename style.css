@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgb(140, 145, 158);
+    background-color: rgb(239, 255, 175);
     color: black;
     display: flex;
     justify-content: center;
@@ -13,7 +13,7 @@ body {
 }
 
 #app {
-    background: rgb(87, 107, 155);
+    background: rgb(255, 184, 196);
     display: flex;
     flex-direction: column;
     width: 380px;
@@ -25,7 +25,7 @@ body {
 }
 
 main {
-    padding: 30px;
+    padding: 300px;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -34,35 +34,9 @@ main {
 }
 
 nav {
-    border-top: 2px solid rgb(5, 6, 12);
+    border-top: 2px solid rgb(250, 152, 168);
     display: flex;
     align-items: center;
     padding: 10px;
     justify-content: space-between;
 }
-body{
-    min-height:100vh;
-    
-    }
-    #msg{
-    width:100%;
-    overflow-wrap : break-word;
-    word-wrap : break-word;
-    font-size : 18px;/*m*/
-    }
-    
-    button{
-    width:80px;/*m*/
-    height:80px;
-    background:radial-gradient(circle,rgb(13, 33, 43),rgb(102, 102, 145));/*m*/
-    border-radius:50%;
-    border:none;
-    cursor:pointer;
-    margin-top:auto;
-    color:azure;/*m*/
-    transition:0.3s;
-    }
-    button:hover{
-    scale:1.1;
-    box-shadow: 0 0 15px;
-    }

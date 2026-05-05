@@ -1,8 +1,9 @@
-let frases = ["A alegria do Senhor é a nossa força",
-    "Que o Deus da esperança os encha de toda alegria e paz, por sua confiança nele.",
-    "Seja forte e corajoso! Não se apavore nem desanime, pois o Senhor, o seu Deus, estará com você por onde você andar.",
-    "Que o Senhor guie seus passos hoje!","Levante-se com alegria e viva a plenitude de Deus.",
-    "Cada manhã é uma nova chance que Deus te dá"];
+let frases = ["Este é o dia que o Senhor fez; regozijemo-nos e alegremo-nos nele. Bom dia com muita fé e gratidão!",
+     "Que o Senhor seja sua força e refúgio neste novo amanhecer. Confie no Senhor e Ele guiará seus passos. Bom dia!", 
+     "O Senhor é meu pastor, nada me faltará. Que essa promessa te acompanhe ao longo do dia. Bom dia abençoado!",
+      "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento. Que seu dia seja repleto de sabedoria divina!",
+       "Porque sou eu que conheço os planos que tenho para vocês, planos de fazê-los prosperar e não de lhes causar dano. Bom dia, que Deus guie seus planos hoje!", 
+       "Aqueles que esperam no Senhor renovam as suas forças. Que seu dia seja de vitórias e renovação!"];
 
 let frasesCopiada = [...frase];
 function geradorMensagem() {
